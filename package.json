@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-javascript-practico-public",
+  "version": "1.0.0",
+  "description": "Usando API REST para una pagina de peliculas.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdisonValle26/api-rest-javascript-practico-Public.git"
+  },
+  "author": "@bylux36",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdisonValle26/api-rest-javascript-practico-Public/issues"
+  },
+  "homepage": "https://github.com/EdisonValle26/api-rest-javascript-practico-Public#readme"
+}
